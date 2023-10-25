@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 # Different type of string formatting:
 
 name = "Abhishek"
+
 age = 27
 
 #1)
